@@ -1,3 +1,4 @@
 # Budget-Buddy
 First Git Repository
-author-James Bond, KJCOEMR
+<br>
+Author-James Bond, KJCOEMR
